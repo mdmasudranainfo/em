@@ -137,6 +137,7 @@ body{
 .teamBox{
     margin: 1px;
     transition: 0.3s;
+    text-align: center;
     
    
 }
